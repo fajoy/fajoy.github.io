@@ -1,0 +1,286 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /BaseFont /ZapfDingbats /Encoding /ZapfDingbatsEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+5 0 obj
+<< /A << /S /URI /Type /Action /URI (http://docutils.sourceforge.net/docs/user/rst/quickstart.html) >> /Border [ 0 0 0 ] /Rect [ 98.69291 639.7236 532.5827 651.7236 ] /Subtype /Link /Type /Annot >>
+endobj
+6 0 obj
+<< /A << /S /URI /Type /Action /URI (http://zetcode.com/) >> /Border [ 0 0 0 ] /Rect [ 98.69291 602.7236 532.5827 614.7236 ] /Subtype /Link /Type /Annot >>
+endobj
+7 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.functionx.com/cpp/index.htm) >> /Border [ 0 0 0 ] /Rect [ 98.69291 565.7236 532.5827 577.7236 ] /Subtype /Link /Type /Annot >>
+endobj
+8 0 obj
+<< /Annots [ 5 0 R 6 0 R 7 0 R ] /Contents 12 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 11 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+9 0 obj
+<< /Outlines 13 0 R /PageLabels 14 0 R /PageMode /UseNone /Pages 11 0 R /Type /Catalog >>
+endobj
+10 0 obj
+<< /Author () /CreationDate (D:20140406222623-08'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (\376\377_\353\220\037\\\016\211\275v\204{F\212\030) >>
+endobj
+11 0 obj
+<< /Count 1 /Kids [ 8 0 R ] /Type /Pages >>
+endobj
+12 0 obj
+<< /Length 2953 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 736.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F2 24 Tf 28.8 TL 171.0209 0 Td /F3 24 Tf 28.8 TL (nnnnnnn) Tj /F2 24 Tf 28.8 TL T* -171.0209 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.2236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 44.37137 0 Td (slug:) Tj T* -44.37137 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 0 rg (tutorial-note) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 696.2236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 44.37137 0 Td (tags:) Tj T* -44.37137 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (tutorial) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 681.2236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 15.69137 0 Td (summary:) Tj T* -15.69137 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL /F3 12 Tf 12 TL (nnnnnnnnnnn) Tj /F1 12 Tf 12 TL T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 665.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (rst\(ReStructuredText\) :) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 644.2236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 8 Tm  T* ET
+q
+1 0 0 1 10 12 cm
+Q
+q
+1 0 0 1 10 12 cm
+Q
+q
+1 0 0 1 10 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (http://docutils.sourceforge.net/docs/user/rst/quickstart.html) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 10 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 628.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (All code:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 607.2236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 8 Tm  T* ET
+q
+1 0 0 1 10 12 cm
+Q
+q
+1 0 0 1 10 12 cm
+Q
+q
+1 0 0 1 10 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (http://zetcode.com/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 10 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 591.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (C++ :) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 570.2236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 8 Tm  T* ET
+q
+1 0 0 1 10 12 cm
+Q
+q
+1 0 0 1 10 12 cm
+Q
+q
+1 0 0 1 10 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (http://www.functionx.com/cpp/index.htm) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 10 0 cm
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+13 0 obj
+<< /Count 0 /Type /Outlines >>
+endobj
+14 0 obj
+<< /Nums [ 0 15 0 R ] >>
+endobj
+15 0 obj
+<< /S /D /St 1 >>
+endobj
+xref
+0 16
+0000000000 65535 f
+0000000075 00000 n
+0000000129 00000 n
+0000000239 00000 n
+0000000354 00000 n
+0000000472 00000 n
+0000000688 00000 n
+0000000862 00000 n
+0000001055 00000 n
+0000001294 00000 n
+0000001402 00000 n
+0000001663 00000 n
+0000001726 00000 n
+0000004736 00000 n
+0000004786 00000 n
+0000004830 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\316\023k\221\001\213\000\202\242.Wv\357\002\306p) (\316\023k\221\001\213\000\202\242.Wv\357\002\306p)]
+ /Info 10 0 R /Root 9 0 R /Size 16 >>
+startxref
+4867
+%%EOF
